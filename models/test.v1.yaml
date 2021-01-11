@@ -1,0 +1,14 @@
+title: test
+type: object
+properties:
+  id:
+    type: string
+  ff:
+    type: string
+x-examples:
+  example-1:
+    id: string
+    ff: string
+  example-2:
+    id: string
+    ff: string
